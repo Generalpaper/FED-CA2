@@ -1,0 +1,47 @@
+This is the list of images I used for my website:
+
+(Taken by me)
+
+Jethro_photo.png
+
+aircon.jpg
+
+recycling.jpg
+
+reusable-bag.jpg
+
+hard_working_fed.jpg
+
+yikes.jpg
+
+youtube.png (footage not from me but screenshot by me)
+
+speed_cubing.jpg
+
+(Singapore Polytechnic website images)
+
+sp-logo.png: https://www.sp.edu.sg/images/default-source/default-album/sp-logo.png?sfvrsn=e2b890e2_4
+
+spcampus.gif: https://www-sp-edu-sg-admin.cwp.sg/videos/default-source/comms/sp-esg_banner-2-digitized-animated.mp4
+
+pv-recycling-line.jpg: https://www.sp.edu.sg/images/default-source/default-album/pv-recycling-line.jpg?sfvrsn=4dead48d_0
+
+chint.jpg: https://www.sp.edu.sg/images/default-source/default-album/chint.jpg?sfvrsn=52851e28_0
+
+common-core.jpg: https://www.sp.edu.sg/images/default-source/default-album/common-core-curriculum9a0c0e1849d0477ca4d983f20f06e612.jpg?sfvrsn=50dc4976_0
+
+(Royalty-free)
+
+Wood_bg.jpg: https://pixabay.com/photos/wood-boards-texture-wooden-brown-2045380/
+
+brick_wall.jpg: https://pixabay.com/photos/texture-brick-wall-white-paint-2068283/
+
+diamond_heart.jpg: https://pixabay.com/illustrations/diamond-isolated-transparent-1857736/
+
+tech.jpg: https://www.pexels.com/photo/photo-of-headphone-and-amplifier-2426085/
+
+air-pollution.jpg: https://pixabay.com/photos/industry-environmental-pollution-1761801/
+
+deforestation.jpg: https://pixabay.com/photos/deforestation-forest-wood-cut-405749/
+
+landfill.jpg: https://pixabay.com/photos/trash-trash-land-trash-dump-4897847/
